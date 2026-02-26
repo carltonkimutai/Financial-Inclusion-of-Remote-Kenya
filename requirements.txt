@@ -1,0 +1,15 @@
+# Core Data Manipulation
+pandas
+numpy
+
+# Geospatial Analysis
+geopandas
+shapely
+
+# Machine Learning & Math
+scikit-learn
+scipy
+
+# Visualization
+matplotlib
+seaborn
