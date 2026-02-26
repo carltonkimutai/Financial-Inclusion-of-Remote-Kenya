@@ -2,7 +2,7 @@
 
 ### 📑 Project Roadmap
 
-Structure of the ReadMe file:
+Structure of this ReadMe file:
 
 1. **The Problem & Strategic Solution:** An overview of the economic friction caused by "Financial Deserts" and the market-capture solution.
 2. **Deep Analysis & Methodology:** A technical summary of the data engineering and machine learning logic used.
